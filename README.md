@@ -4,7 +4,7 @@ This is a webpage made with WordPress in Wix.com
 
 <h1>WEBSITE</h1>
 
-![gitlogo](landing page.png)
+![gitlogo](landing.png)
 
 # Package Usage
 
